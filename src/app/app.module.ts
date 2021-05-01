@@ -15,6 +15,7 @@ import { HeroParentComponent } from "./hero-parent/hero-parent.component";
     HeroChildComponent,
     HeroParentComponent
   ],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+  providers: []
 })
 export class AppModule {}
